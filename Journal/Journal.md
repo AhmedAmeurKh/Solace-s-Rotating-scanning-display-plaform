@@ -18,6 +18,7 @@ For now, it would be composed of 2 parts:
 - A platform that would have an internal spur gear on the bottom that will rotate due to the servo's gear movement.
 
 I also added bearings for a smooth rotation with little friction.
+
 ![alt text](<Capture d'écran 2026-06-17 110715.png>)
 ![alt text](<Capture d'écran 2026-06-17 110740.png>)
 ![alt text](<Capture d'écran 2026-06-17 110822.png>)
@@ -25,4 +26,5 @@ I also added bearings for a smooth rotation with little friction.
 - It would be USB-C powered with no batteries.
 
 Lapse Link: https://lapse.hackclub.com/timelapse/X1f4Y2MAq8PE
+
 **Total time spent: 2h 13m 5s**
